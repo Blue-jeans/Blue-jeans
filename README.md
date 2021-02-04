@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋, My name is Rodolfo. 
+
+I am a Fullstack Developer who loves to code!
+
+🔭 I’m currently working on React, Javascript, Django, and Vuejs.
+👯 I’m looking to collaborate on projects that love to work with APIs and Frontend languages
+⚡ Fun fact: I love working on scaling my own websites in my freetime to promote my hobbies.
+
+Languages and Tools: 
 
 <!--
 **Blue-jeans/Blue-jeans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
